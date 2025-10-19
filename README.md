@@ -24,7 +24,7 @@ Ce travail s’inscrit dans le cadre du module *“Agents d’IA — Ydays 2025�
 ### 💻 Exécution locale (console)
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/<ton-utilisateur>/ai-agent-lab.git
+   git clone https://github.com/fejiostephane/projet_agent-ia.git
    cd ai-agent-lab
 Installer les dépendances :
 
